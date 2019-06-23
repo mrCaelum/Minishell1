@@ -22,7 +22,7 @@ echo [your_command] | ./mysh
 ```
 $ cd [directory]
 ```
-### Exemple
+### Example
 ```
 $ cd Documents
 $ pwd
@@ -40,7 +40,7 @@ $ pwd
 ```
 $ setenv [name] [value]
 ```
-### Exemple
+### Example
 ```
 $ env
 PATH=/usr/bin
@@ -54,7 +54,7 @@ TEST=value
 ```
 $ unsetenv [name]
 ```
-### Exemple
+### Example
 ```
 $ env
 PATH=/usr/bin
@@ -69,7 +69,7 @@ PATH=/usr/bin
 ```
 $ exit [error_value]
 ```
-### Exemple
+### Example
 ```
 $ exit 22
 $ echo $?
